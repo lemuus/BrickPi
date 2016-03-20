@@ -21,7 +21,7 @@ namespace BrickPi.Sensors
     {
         private Brick brick = null;
         // in the BrickPi source code, this value is 1020
-        private int NXTCutoff = 1015;
+        private int NXTCutoff = 1020;
 
         /// <summary>
         /// Initialise an EV3 Touch sensor
